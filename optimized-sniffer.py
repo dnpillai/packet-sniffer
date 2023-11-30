@@ -56,12 +56,15 @@ if __name__ == "__main__":
     net_iface = input("* Enter the interface on which to run the sniffer (e.g. 'enp0s8'): ")
     set_promiscuous_mode(net_iface)
 
+    # Asking the user for number of packets to capture
     pkt_to_sniff = input("* Enter the number of packets to capture (0 is infinity): ")
     print(f"\nThe program will capture {pkt_to_sniff} packets.\n" if pkt_to_sniff != "0" else "\nThe program will capture packets until the timeout expires.\n")
 
+    # Asking the user for the duration of the packet sniffing
     time_to_sniff = input("* Enter the number of seconds to run the capture: ")
     print(f"\nThe program will capture packets for {time_to_sniff} seconds.\n" if time_to_sniff != "0" else "")
 
+    # Asking the user for protocol based filtering
     proto_sniff = input("* Enter the protocol to filter by (arp|bootp|icmp|0 is all): ")
     print(f"\nThe program will capture only {proto_sniff.upper()} packets.\n" if proto_sniff in ["arp", "bootp", "icmp"] else "\nThe program will capture all protocols.\n" if proto_sniff == "0" else "\nCould not identify the protocol.\n")
 
