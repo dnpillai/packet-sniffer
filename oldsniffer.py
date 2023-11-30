@@ -19,7 +19,7 @@ except ImportError:
     sys.exit()
 
 # Prompting the user with a message; recommending the use of "sudo scapy" in Linux
-print("\n! Make sure to run this program as ROOT !\n")
+print("\n! Run this program as ROOT, or it will not function properly!\n")
 
 # Asking the user for input parameters: interface, number of packets, time interval, and protocol
 
