@@ -1,0 +1,63 @@
+Time: 2023-11-30 21:10:31.754338 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:32.726241 Protocol: ALL SMAC: 08:00:27:8d:6d:05 DMAC: 01:80:c2:00:00:0e
+
+Time: 2023-11-30 21:10:32.779115 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:33.801684 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:34.834987 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:35.849638 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:36.874130 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:38.905506 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:39.930934 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:40.937816 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:41.962517 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:42.999484 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:44.021966 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:45.033863 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:46.057701 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:46.106029 Protocol: ALL SMAC: 08:00:27:e0:26:26 DMAC: 01:80:c2:00:00:0e
+
+Time: 2023-11-30 21:10:47.082346 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:47.503560 Protocol: ALL SMAC: 02:00:4c:4f:4f:50 DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:48.113218 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:49.129809 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:50.154391 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:51.019802 Protocol: ALL SMAC: 08:00:27:3d:78:17 DMAC: 01:80:c2:00:00:0e
+
+Time: 2023-11-30 21:10:51.181827 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:52.206458 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:53.227069 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:54.252506 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:55.274063 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:56.304397 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:57.322506 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:58.346996 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:10:59.375355 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:11:00.394518 Protocol: ALL SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff

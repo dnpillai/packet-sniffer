@@ -1,0 +1,73 @@
+Time: 2023-11-30 21:15:50.671197 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:15:51.689985 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:15:52.714444 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:15:53.738910 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:15:54.293076 Protocol: ARP SMAC: 02:00:4c:4f:4f:50 DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:15:54.785753 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:15:55.789844 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:15:56.811345 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:15:57.876911 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:15:58.916679 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:15:59.950426 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:00.971822 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:02.019914 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:04.062856 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:05.066843 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:06.090321 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:07.120728 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:08.138257 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:09.162239 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:10.191618 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:11.210190 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:12.233689 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:13.287968 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:14.319248 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:15.337653 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:16.380803 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:17.387532 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:18.416063 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:20.435737 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:21.449777 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:22.475838 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:23.497839 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:24.522356 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:25.554675 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:26.598659 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:27.630822 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
+
+Time: 2023-11-30 21:16:28.651386 Protocol: ARP SMAC: 08:00:27:11:69:6f DMAC: ff:ff:ff:ff:ff:ff
